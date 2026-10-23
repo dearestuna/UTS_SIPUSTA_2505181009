@@ -1,0 +1,8 @@
+KODE       | JUDUL                          | TAHUN | STATUS LAYAK
+---------------------------------------------------------------------------
+MJ-002     | Info Teknologi Edisi 87        | 2026  | true
+BK-001     | Java How to Program            | 2022  | true
+BD-002     | Jurnal Rekayasa Perangkat      | 2025  | true
+BD-001     | Panduan Pemrograman Java       | 2024  | true
+BK-002     | Basis Data Relasional          | 2021  | false
+MJ-001     | Info Teknologi Edisi 88        | 2026  | false
